@@ -19,9 +19,10 @@ public class Ejemplo011 {
         int variable = 1;
         int limite = 13;
         while(variable <=limite) {
-            System.out.printlf("%d\n", variable);
+            System.out.printf("%d\n", variable);
             variable = variable + 1;
         }
+         System.out.printf("Variable fuera del while: %d\n", variable);
         
                
     }
