@@ -8,7 +8,9 @@ package ejemplociclowhile;
 /**
  *
  * @author reroes
- */
+0 */
+
+        
 public class Ejemplo04 {
     /**
      * @param args the command line arguments
