@@ -29,6 +29,7 @@ public class Ejemplo06 {
 
         System.out.println("Ingrese las notas de los "
                 + "estudiantes de su materia");
+        //se puede hacer tanto la forma de la linea 34 como de la 25 ya que es un boolean
         // true 
         // while (bandera) {
         while(bandera==true){
